@@ -1,0 +1,54 @@
+body{
+    background-color:hsl(233, 47%, 7%);
+}
+.challenge{
+    background-color: hsl(244, 38%, 16%) ;
+    width: 900px;
+    height: 500px;
+    margin: 80px;
+    display:flex;
+    flex-direction : row;
+}
+span{
+    color:hsl(277, 64%, 61%)
+
+}
+h2{
+    color:hsl(0, 0%, 100%)
+}
+h5{
+    color:hsla(0, 0%, 100%, 0.75)
+}
+p{
+
+    color:hsla(0, 0%, 100%, 0.6)
+}
+.otherpart{ 
+    padding:7% 10% 7% 8%;
+    background-color:hsl(244, 38%, 16%);
+    width:35%;
+}
+
+.two{
+    display:flex;
+    gap:20px;
+}
+.company{ 
+    /* margin:70% 3%; */
+    padding:2%;
+}
+.templates{
+    /* margin:70% 3%; */
+}
+.queries{
+  /* margin:70% 3%; */
+}
+.onepart{ 
+      display:flex;
+    flex-direction : row;
+    
+    width:35%
+}
+.one{
+    padding:10%;
+}
